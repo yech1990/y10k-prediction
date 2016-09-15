@@ -6,7 +6,7 @@ Python code and IPython notebooks accompanying our paper.[biorxiv](http://biorxi
 
 
 ## How to use
-
+```
 .
 ├── figures
 │   └── figure2a.png
@@ -35,6 +35,7 @@ Python code and IPython notebooks accompanying our paper.[biorxiv](http://biorxi
     ├── MTLMM.py
     ├── QTL_fitting.py
     └── train_and_test_sets.py
+```
 
 ### wrapped script for different prediction methods
 - `train_and_test_sets.py` - code for partitioning individuals into four sets, as shown in Figure 3a
