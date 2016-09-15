@@ -1,6 +1,5 @@
 import sys
-sys.path.append("/home/kaspar")
-from y10k_prediction.imports import *
+from y10k_prediction_methods.dependence import *
 
 def get_BLUPs(Y, K, Itrain=None, Itest=None):
     if Itrain is None:

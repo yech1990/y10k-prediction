@@ -1,6 +1,5 @@
 import sys
-sys.path.append("/home/kaspar")
-from y10k_prediction.imports import *
+from y10k_prediction_methods.dependence import *
 
 def summarise_Rsq(Y, Ypred):
     P = Y.shape[1]

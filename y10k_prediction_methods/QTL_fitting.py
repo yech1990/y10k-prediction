@@ -1,7 +1,6 @@
 import sys
-sys.path.append("/home/kaspar")
-from y10k_prediction.imports import *
-from y10k_prediction.LMM import *
+from y10k_prediction_methods.dependence import *
+from y10k_prediction_methods.LMM import *
 
 def get_predictions_iid(y, covs, Itrain, Itest):
     lm = linear_model.LinearRegression()

@@ -1,6 +1,5 @@
 import sys
-sys.path.append("/home/kaspar")
-from y10k_prediction.imports import *
+from y10k_prediction_methods.dependence import *
 
 from limix.ensemble.lmm_forest import  Forest as LMF
 from limix.ensemble import lmm_forest_utils as utils

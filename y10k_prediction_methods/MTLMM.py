@@ -1,6 +1,5 @@
 import sys
-sys.path.append("/home/kaspar")
-from y10k_prediction.imports import *
+from y10k_prediction_methods.dependence import *
 
 def fit_simple_MT_LMM(Y, K, Itrain):
     m = var.VarianceDecomposition(Y[Itrain, :])

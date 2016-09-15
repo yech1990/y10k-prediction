@@ -1,6 +1,5 @@
 import sys
-sys.path.append("/home/kaspar")
-from y10k_prediction.imports import *
+from y10k_prediction_methods.dependence import *
 
 def get_data_without_parents(file_name, environments=None):
 
