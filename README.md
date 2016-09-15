@@ -1,10 +1,9 @@
 # Predicting quantitative traits from genome and phenome with near perfect accuracy
 
-![Figure 2a](figure2a.png)
+![Figure 2a](./figures/figure2a.png)
 
-Python code and IPython notebooks accompanying [our paper](http://biorxiv.org/content/early/2015/10/26/029868). 
+Python code and IPython notebooks accompanying our paper.[biorxiv](http://biorxiv.org/content/early/2015/10/26/029868) [ncomms](http://www.nature.com/ncomms/2016/160510/ncomms11512/full/ncomms11512.html)
 
-Specifically, 
 
 ## How to use
 
